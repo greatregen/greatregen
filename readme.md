@@ -3,6 +3,9 @@
 - 😄 My name is: Norapath Pannarach
 - ⚡ Student id: 63363133
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 🧑 Career interest : Computer Programmer , Software Engineer 
+- 💻 Can write : Python , C language (learning)
+- 💡 Interesting in : Coding
 
 ## Developer Tech
 
@@ -32,6 +35,9 @@
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
 
+<a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a> 
 </P>
 
 ### Tools 
@@ -47,10 +53,6 @@
 </P>
 
 ## Devices / Manufacturers
-<p align="left">
-<a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
 
 <a href="#">
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
